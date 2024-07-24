@@ -1,3 +1,3 @@
 # CircuitStuff
 
-![Traffic Light](images\image.png)
+![Traffic Light](images/traffic_light.png)
