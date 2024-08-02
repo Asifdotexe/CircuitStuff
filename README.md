@@ -4,17 +4,19 @@ Welcome to the CircuitStuff repository! This is a collection of projects and ass
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: Traffic Light
 Description: A brief description of the project.
-- [C++ Code](link_to_project_1_code)
-- ![Project Image](link_to_project_1_image)
+- [C++ Code](https://github.com/Asifdotexe/CircuitStuff/blob/main/trafficlight.cpp)
+- [TinkerCAD](https://www.tinkercad.com/things/czNzN6Plbrx-traffic-light)
+- ![Project Image](https://github.com/Asifdotexe/CircuitStuff/blob/main/images/traffic_light.png)
 
-<!-- ### Project 2: [Project Name]
+### Project 2: Counter
 Description: A brief description of the project.
-- [C++ Code](link_to_project_2_code)
+- [C++ Code](https://github.com/Asifdotexe/CircuitStuff/blob/main/counter.cpp)
+- [TinkerCAD](https://www.tinkercad.com/things/b7N2eWhOwtN-counter?sharecode=2dPr2t-Csgot5EW1IC8hLGZbXF1g_GztphJkN-icLX0)
 - ![Project Image](link_to_project_2_image)
 
-### Project 3: [Project Name]
+<!-- ### Project 3: [Project Name]
 Description: A brief description of the project.
 - [C++ Code](link_to_project_3_code)
 - ![Project Image](link_to_project_3_image) ==>
